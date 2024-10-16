@@ -1,0 +1,765 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-rand.o)
+                              build/src/main.c.o (symbol from plugin) (srand)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-assert.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-rand.o) (__assert_func)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fprintf.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-assert.o) (fiprintf)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-impure.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-rand.o) (_impure_ptr)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-malloc.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-rand.o) (malloc)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-freer.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-malloc.o) (_free_r)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-mallocr.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-malloc.o) (_malloc_r)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-vfprintf.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fprintf.o) (_vfprintf_r)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-vfprintf.o) (_printf_i)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-sbrkr.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-wbuf.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-vfprintf.o) (__swbuf_r)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-wsetup.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-vfprintf.o) (__swsetup_r)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-abort.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-assert.o) (abort)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fflush.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-wbuf.o) (_fflush_r)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-findfp.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-vfprintf.o) (__sinit)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fvwrite.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-vfprintf.o) (__sfvwrite_r)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fwalk.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-findfp.o) (_fwalk)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-makebuf.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-wsetup.o) (__smakebuf_r)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-memchr.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-vfprintf.o) (memchr)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-memcpy-asm.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fvwrite.o) (memcpy)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-memmove.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fvwrite.o) (memmove)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-memset.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-findfp.o) (memset)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-mlock.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-reallocr.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fvwrite.o) (_realloc_r)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-reent.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-sbrkr.o) (errno)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-signal.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-abort.o) (raise)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-signalr.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-signal.o) (_kill_r)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-stdio.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-findfp.o) (__sread)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-writer.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-stdio.o) (_write_r)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-closer.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-stdio.o) (_close_r)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fstatr.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-makebuf.o) (_fstat_r)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-isattyr.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-makebuf.o) (_isatty_r)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-lseekr.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-stdio.o) (_lseek_r)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-msizer.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-readr.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-stdio.o) (_read_r)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(close.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-closer.o) (_close)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(fstat.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fstatr.o) (_fstat)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(getpid.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-signalr.o) (_getpid)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(isatty.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-isattyr.o) (_isatty)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(kill.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-signalr.o) (_kill)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(lseek.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-lseekr.o) (_lseek)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(read.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-readr.o) (_read)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(sbrk.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-sbrkr.o) (_sbrk)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(write.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-writer.o) (_write)
+/home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(_exit.o)
+                              /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-abort.o) (_exit)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x8 build/crt0.S.o
+ .data          0x0000000000000000        0x0 build/crt0.S.o
+ .bss           0x0000000000000000        0x0 build/crt0.S.o
+ .data          0x0000000000000000        0x0 /tmp/ccRuWMe4.ltrans0.ltrans.o
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-rand.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-rand.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-rand.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-assert.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-assert.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-assert.o)
+ .text.__assert
+                0x0000000000000000       0x10 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-assert.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fprintf.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fprintf.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fprintf.o)
+ .text._fprintf_r
+                0x0000000000000000       0x20 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fprintf.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-malloc.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-malloc.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-malloc.o)
+ .text.free     0x0000000000000000       0x12 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-malloc.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-freer.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-freer.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-vfprintf.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-vfprintf.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sprint_r
+                0x0000000000000000       0x28 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-vfprintf.o)
+ .text.vfprintf
+                0x0000000000000000       0x16 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-vfprintf.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-wbuf.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-wbuf.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-wbuf.o)
+ .text.__swbuf  0x0000000000000000       0x14 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-wbuf.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-wsetup.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-wsetup.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-wsetup.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-abort.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-abort.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-abort.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fflush.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fflush.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fflush.o)
+ .text.fflush   0x0000000000000000       0x2c /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fflush.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-findfp.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-findfp.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x0000000000000000        0x4 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x0000000000000000        0x4 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-findfp.o)
+ .text._cleanup
+                0x0000000000000000       0x10 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x0000000000000000        0x2 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-findfp.o)
+ .text.__sfp_lock_release
+                0x0000000000000000        0x2 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-findfp.o)
+ .text.__sinit_lock_acquire
+                0x0000000000000000        0x2 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-findfp.o)
+ .text.__sinit_lock_release
+                0x0000000000000000        0x2 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-findfp.o)
+ .text.__fp_lock_all
+                0x0000000000000000       0x18 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock_all
+                0x0000000000000000       0x18 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-findfp.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fvwrite.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fvwrite.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fvwrite.o)
+ .text.__sfvwrite_r
+                0x0000000000000000      0x30c /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fvwrite.o)
+ .comment       0x0000000000000000       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fvwrite.o)
+ .riscv.attributes
+                0x0000000000000000       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fvwrite.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fwalk.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fwalk.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fwalk.o)
+ .text._fwalk   0x0000000000000000       0x62 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fwalk.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-makebuf.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-makebuf.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-makebuf.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-memchr.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-memchr.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-memchr.o)
+ .text          0x0000000000000000       0x16 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-memcpy-asm.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-memcpy-asm.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-memcpy-asm.o)
+ .riscv.attributes
+                0x0000000000000000       0x24 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-memcpy-asm.o)
+ .text          0x0000000000000000       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-memmove.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-memmove.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-memmove.o)
+ .riscv.attributes
+                0x0000000000000000       0x24 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-memmove.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-reallocr.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-reallocr.o)
+ .text._realloc_r
+                0x0000000000000000       0x96 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-reallocr.o)
+ .comment       0x0000000000000000       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-reallocr.o)
+ .riscv.attributes
+                0x0000000000000000       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-reallocr.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x2c /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000      0x10a /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-signal.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-signal.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-signal.o)
+ .text._init_signal_r
+                0x0000000000000000       0x3e /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-signal.o)
+ .text._signal_r
+                0x0000000000000000       0x46 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-signal.o)
+ .text.__sigtramp_r
+                0x0000000000000000       0x5a /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-signal.o)
+ .text.signal   0x0000000000000000       0x14 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-signal.o)
+ .text._init_signal
+                0x0000000000000000       0x10 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-signal.o)
+ .text.__sigtramp
+                0x0000000000000000       0x12 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-signal.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-signalr.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-signalr.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-signalr.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-stdio.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-stdio.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-stdio.o)
+ .text.__seofread
+                0x0000000000000000        0x4 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-stdio.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-writer.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-writer.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-writer.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-closer.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-closer.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-closer.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fstatr.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fstatr.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fstatr.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-isattyr.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-isattyr.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-isattyr.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-lseekr.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-lseekr.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-lseekr.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-msizer.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-msizer.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-msizer.o)
+ .text._malloc_usable_size_r
+                0x0000000000000000       0x14 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-msizer.o)
+ .comment       0x0000000000000000       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-msizer.o)
+ .riscv.attributes
+                0x0000000000000000       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-msizer.o)
+ .text          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-readr.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-readr.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-readr.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(close.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(close.o)
+ .gnu.warning._close
+                0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(close.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(fstat.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(fstat.o)
+ .gnu.warning._fstat
+                0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(fstat.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(getpid.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(getpid.o)
+ .gnu.warning._getpid
+                0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(getpid.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(isatty.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(isatty.o)
+ .gnu.warning._isatty
+                0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(isatty.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(kill.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(kill.o)
+ .gnu.warning._kill
+                0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(kill.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(lseek.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(lseek.o)
+ .gnu.warning._lseek
+                0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(lseek.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(read.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(read.o)
+ .gnu.warning._read
+                0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(read.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(sbrk.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(sbrk.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(write.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(write.o)
+ .gnu.warning._write
+                0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(write.o)
+ .data          0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(_exit.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ROM              0x0000000010000000 0x0000000000010000 xr
+RAM              0x0000000010010000 0x0000000000010000 w
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD build/crt0.S.o
+LOAD build/lib/misc/print.c.o
+LOAD /tmp/ccRuWMe4.ltrans0.ltrans.o
+LOAD build/lib/libarch/uart.c.o
+LOAD build/lib/libarch/timer.c.o
+LOAD build/src/main.c.o
+START GROUP
+LOAD /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a
+LOAD /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a
+LOAD /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libm_nano.a
+LOAD /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/libgcc.a
+LOAD /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libsupc++.a
+END GROUP
+                0x0000000010000000                __ROM_BASE = 0x10000000
+                0x0000000000010000                __ROM_SIZE = 0x10000
+                0x0000000010010000                __RAM_BASE = 0x10010000
+                0x0000000000010000                __RAM_SIZE = 0x10000
+                0x0000000000002000                __STACK_SIZE = 0x2000
+                0x0000000000002000                __HEAP_SIZE = 0x2000
+
+.text           0x0000000010000000     0x37fc
+ *(.vectors)
+ .vectors       0x0000000010000000       0x8c build/crt0.S.o
+ *(.text)
+ .text          0x000000001000008c     0x19a0 /tmp/ccRuWMe4.ltrans0.ltrans.o
+                0x00000000100018ba                IRQ_04_Handler
+                0x00000000100019ac                IRQ_00_Handler
+                0x0000000010001a1e                Default_Handler
+ .text          0x0000000010001a2c       0x10 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-memset.o)
+                0x0000000010001a2c                memset
+ .text          0x0000000010001a3c       0x10 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(close.o)
+                0x0000000010001a3c                _close
+ .text          0x0000000010001a4c       0x10 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(fstat.o)
+                0x0000000010001a4c                _fstat
+ .text          0x0000000010001a5c       0x10 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(getpid.o)
+                0x0000000010001a5c                _getpid
+ .text          0x0000000010001a6c       0x10 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(isatty.o)
+                0x0000000010001a6c                _isatty
+ .text          0x0000000010001a7c       0x10 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(kill.o)
+                0x0000000010001a7c                _kill
+ .text          0x0000000010001a8c       0x10 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(lseek.o)
+                0x0000000010001a8c                _lseek
+ .text          0x0000000010001a9c       0x10 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(read.o)
+                0x0000000010001a9c                _read
+ .text          0x0000000010001aac       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(sbrk.o)
+                0x0000000010001aac                _sbrk
+ .text          0x0000000010001ad2       0x10 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(write.o)
+                0x0000000010001ad2                _write
+ .text          0x0000000010001ae2        0x2 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(_exit.o)
+                0x0000000010001ae2                _exit
+ *(.text.*)
+ .text.Reset_Handler
+                0x0000000010001ae4       0x62 build/crt0.S.o
+                0x0000000010001ae4                Reset_Handler
+ .text.Default_Handler
+                0x0000000010001b46        0x2 build/crt0.S.o
+                0x0000000010001b46                IRQ_08_Handler
+                0x0000000010001b46                IRQ_06_Handler
+                0x0000000010001b46                IRQ_11_Handler
+                0x0000000010001b46                IRQ_10_Handler
+                0x0000000010001b46                IRQ_07_Handler
+                0x0000000010001b46                IRQ_01_Handler
+                0x0000000010001b46                IRQ_13_Handler
+                0x0000000010001b46                IRQ_14_Handler
+                0x0000000010001b46                IRQ_02_Handler
+                0x0000000010001b46                IRQ_05_Handler
+                0x0000000010001b46                IRQ_NMI_Handler
+                0x0000000010001b46                IRQ_09_Handler
+                0x0000000010001b46                IRQ_03_Handler
+                0x0000000010001b46                IRQ_12_Handler
+ .text.startup  0x0000000010001b48      0x4ec /tmp/ccRuWMe4.ltrans0.ltrans.o
+                0x0000000010001b48                main
+ .text.srand    0x0000000010002034       0x74 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-rand.o)
+                0x0000000010002034                srand
+ .text.rand     0x00000000100020a8       0xa2 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-rand.o)
+                0x00000000100020a8                rand
+ .text.__assert_func
+                0x000000001000214a       0x40 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-assert.o)
+                0x000000001000214a                __assert_func
+ .text.fprintf  0x000000001000218a       0x28 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fprintf.o)
+                0x000000001000218a                fprintf
+                0x000000001000218a                fiprintf
+ .text.malloc   0x00000000100021b2        0xc /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-malloc.o)
+                0x00000000100021b2                malloc
+ .text._free_r  0x00000000100021be       0xa6 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-freer.o)
+                0x00000000100021be                _free_r
+ .text._malloc_r
+                0x0000000010002264       0xe2 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-mallocr.o)
+                0x0000000010002264                _malloc_r
+ .text.__sfputc_r
+                0x0000000010002346       0x28 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sfputs_r
+                0x000000001000236e       0x42 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-vfprintf.o)
+                0x000000001000236e                __sfputs_r
+ .text._vfprintf_r
+                0x00000000100023b0      0x2a4 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-vfprintf.o)
+                0x00000000100023b0                _vfiprintf_r
+                0x00000000100023b0                _vfprintf_r
+ .text._printf_common
+                0x0000000010002654      0x110 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000010002654                _printf_common
+ .text._printf_i
+                0x0000000010002764      0x262 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000010002764                _printf_i
+ .text._sbrk_r  0x00000000100029c6       0x30 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-sbrkr.o)
+                0x00000000100029c6                _sbrk_r
+ .text.__swbuf_r
+                0x00000000100029f6       0xc0 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-wbuf.o)
+                0x00000000100029f6                __swbuf_r
+ .text.__swsetup_r
+                0x0000000010002ab6      0x10c /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-wsetup.o)
+                0x0000000010002ab6                __swsetup_r
+ .text.abort    0x0000000010002bc2        0xe /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-abort.o)
+                0x0000000010002bc2                abort
+ .text.__sflush_r
+                0x0000000010002bd0      0x148 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fflush.o)
+                0x0000000010002bd0                __sflush_r
+ .text._fflush_r
+                0x0000000010002d18       0x64 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fflush.o)
+                0x0000000010002d18                _fflush_r
+ .text.std      0x0000000010002d7c       0x6a /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x0000000010002de6        0xa /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-findfp.o)
+                0x0000000010002de6                _cleanup_r
+ .text.__sfmoreglue
+                0x0000000010002df0       0x48 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-findfp.o)
+                0x0000000010002df0                __sfmoreglue
+ .text.__sinit  0x0000000010002e38       0x6a /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-findfp.o)
+                0x0000000010002e38                __sinit
+ .text.__sfp    0x0000000010002ea2       0x9e /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-findfp.o)
+                0x0000000010002ea2                __sfp
+ .text._fwalk_reent
+                0x0000000010002f40       0x6a /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fwalk.o)
+                0x0000000010002f40                _fwalk_reent
+ .text.__swhatbuf_r
+                0x0000000010002faa       0x5c /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-makebuf.o)
+                0x0000000010002faa                __swhatbuf_r
+ .text.__smakebuf_r
+                0x0000000010003006       0x9e /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-makebuf.o)
+                0x0000000010003006                __smakebuf_r
+ .text.memchr   0x00000000100030a4       0x1a /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-memchr.o)
+                0x00000000100030a4                memchr
+ .text.__malloc_lock
+                0x00000000100030be        0x2 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-mlock.o)
+                0x00000000100030be                __malloc_lock
+ .text.__malloc_unlock
+                0x00000000100030c0        0x2 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-mlock.o)
+                0x00000000100030c0                __malloc_unlock
+ .text._raise_r
+                0x00000000100030c2       0x62 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-signal.o)
+                0x00000000100030c2                _raise_r
+ .text.raise    0x0000000010003124        0xc /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-signal.o)
+                0x0000000010003124                raise
+ .text._kill_r  0x0000000010003130       0x32 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-signalr.o)
+                0x0000000010003130                _kill_r
+ .text._getpid_r
+                0x0000000010003162        0x4 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-signalr.o)
+                0x0000000010003162                _getpid_r
+ .text.__sread  0x0000000010003166       0x30 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-stdio.o)
+                0x0000000010003166                __sread
+ .text.__swrite
+                0x0000000010003196       0x4e /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-stdio.o)
+                0x0000000010003196                __swrite
+ .text.__sseek  0x00000000100031e4       0x36 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-stdio.o)
+                0x00000000100031e4                __sseek
+ .text.__sclose
+                0x000000001000321a        0x6 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-stdio.o)
+                0x000000001000321a                __sclose
+ .text._write_r
+                0x0000000010003220       0x34 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-writer.o)
+                0x0000000010003220                _write_r
+ .text._close_r
+                0x0000000010003254       0x30 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-closer.o)
+                0x0000000010003254                _close_r
+ .text._fstat_r
+                0x0000000010003284       0x32 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fstatr.o)
+                0x0000000010003284                _fstat_r
+ .text._isatty_r
+                0x00000000100032b6       0x30 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-isattyr.o)
+                0x00000000100032b6                _isatty_r
+ .text._lseek_r
+                0x00000000100032e6       0x34 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-lseekr.o)
+                0x00000000100032e6                _lseek_r
+ .text._read_r  0x000000001000331a       0x34 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-readr.o)
+                0x000000001000331a                _read_r
+ *(.init)
+ *(.fini)
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.lit)
+ *(.shdata)
+ *(.rodata)
+ *fill*         0x000000001000334e        0x2 
+ .rodata        0x0000000010003350      0x294 /tmp/ccRuWMe4.ltrans0.ltrans.o
+ *(.rodata.*)
+ .rodata.str1.4
+                0x00000000100035e4       0x73 /tmp/ccRuWMe4.ltrans0.ltrans.o
+ *fill*         0x0000000010003657        0x1 
+ .rodata.srand.str1.4
+                0x0000000010003658       0x70 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-rand.o)
+ .rodata.__assert_func.str1.4
+                0x00000000100036c8       0x3f /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-assert.o)
+                                         0x43 (size before relaxing)
+ *fill*         0x0000000010003707        0x1 
+ .rodata._vfprintf_r.str1.4
+                0x0000000010003708       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-vfprintf.o)
+ *fill*         0x000000001000371b        0x1 
+ .rodata._printf_i.str1.4
+                0x000000001000371c       0x25 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ *fill*         0x0000000010003741        0x3 
+ .rodata._printf_i
+                0x0000000010003744       0x58 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .rodata.__sf_fake_stderr
+                0x000000001000379c       0x20 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-findfp.o)
+                0x000000001000379c                __sf_fake_stderr
+ .rodata.__sf_fake_stdin
+                0x00000000100037bc       0x20 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-findfp.o)
+                0x00000000100037bc                __sf_fake_stdin
+ .rodata.__sf_fake_stdout
+                0x00000000100037dc       0x20 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-findfp.o)
+                0x00000000100037dc                __sf_fake_stdout
+ *(.eh_frame*)
+ *(.shbss)
+
+.srodata._global_impure_ptr
+                0x00000000100037fc        0x4
+ .srodata._global_impure_ptr
+                0x00000000100037fc        0x4 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-impure.o)
+                0x00000000100037fc                _global_impure_ptr
+
+.rela.dyn       0x0000000010003800        0x0
+ .rela.text.Reset_Handler
+                0x0000000010003800        0x0 build/crt0.S.o
+ .rela.vectors  0x0000000010003800        0x0 build/crt0.S.o
+ .rela.text._vfprintf_r
+                0x0000000010003800        0x0 build/crt0.S.o
+ .rela.text     0x0000000010003800        0x0 build/crt0.S.o
+                0x0000000010003800                . = ALIGN (0x4)
+                0x0000000010003800                _text_end = .
+
+.data           0x0000000010010000       0x64 load address 0x0000000010003800
+                0x0000000010010000                _data_start = .
+ *(vtable)
+ *(.data)
+ *(.data.*)
+ .data.impure_data
+                0x0000000010010000       0x60 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-impure.o)
+ *(.sdata)
+ *(.sdata.*)
+ .sdata._impure_ptr
+                0x0000000010010060        0x4 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-impure.o)
+                0x0000000010010060                _impure_ptr
+                0x0000000010010064                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = .)
+                0x0000000010010064                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                [!provide]                        PROVIDE (__init_array_end = .)
+                0x0000000010010064                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+ *(.jcr*)
+                0x0000000010010064                . = ALIGN (0x4)
+                0x0000000010010064                _data_end = .
+
+.bss            0x0000000010010064       0xd8 load address 0x0000000010003864
+                0x0000000010010064                . = ALIGN (0x4)
+                0x0000000010010064                _bss_start = .
+ *(.bss)
+ .bss           0x0000000010010064       0xa0 /tmp/ccRuWMe4.ltrans0.ltrans.o
+ *(.bss.*)
+ *(.sbss)
+ .sbss          0x0000000010010104       0x28 /tmp/ccRuWMe4.ltrans0.ltrans.o
+ .sbss          0x000000001001012c        0x4 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(sbrk.o)
+ *(.sbss.*)
+ .sbss.__malloc_free_list
+                0x0000000010010130        0x4 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-mallocr.o)
+                0x0000000010010130                __malloc_free_list
+ .sbss.__malloc_sbrk_start
+                0x0000000010010134        0x4 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-mallocr.o)
+                0x0000000010010134                __malloc_sbrk_start
+ .sbss.errno    0x0000000010010138        0x4 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-reent.o)
+                0x0000000010010138                errno
+ *(COMMON)
+                0x000000001001013c                . = ALIGN (0x4)
+                0x000000001001013c                _bss_end = .
+
+.heap           0x000000001001013c     0x2004
+                0x0000000010010140                . = ALIGN (0x8)
+ *fill*         0x000000001001013c        0x4 
+                0x0000000010010140                __end__ = .
+                0x0000000010010140                _end = .
+                0x0000000010010140                PROVIDE (end = .)
+                0x0000000010012140                . = (. + __HEAP_SIZE)
+ *fill*         0x0000000010010140     0x2000 
+                0x0000000010012140                . = ALIGN (0x8)
+                0x0000000010012140                __HeapLimit = .
+
+.stack          0x000000001001e000     0x2000
+                0x000000001001e000                . = ALIGN (0x8)
+                0x000000001001e000                __StackLimit = .
+                0x0000000010020000                . = (. + __STACK_SIZE)
+ *fill*         0x000000001001e000     0x2000 
+                0x0000000010020000                . = ALIGN (0x8)
+                0x0000000010020000                __StackTop = .
+                0x0000000010020000                PROVIDE (__stack = __StackTop)
+OUTPUT(output/demo-icobs-light.elf elf32-littleriscv)
+
+.riscv.attributes
+                0x0000000000000000       0x2a
+ .riscv.attributes
+                0x0000000000000000       0x24 build/crt0.S.o
+ .riscv.attributes
+                0x0000000000000024       0x2a /tmp/ccRuWMe4.ltrans0.ltrans.o
+ .riscv.attributes
+                0x000000000000004e       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-rand.o)
+ .riscv.attributes
+                0x0000000000000074       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-assert.o)
+ .riscv.attributes
+                0x000000000000009a       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fprintf.o)
+ .riscv.attributes
+                0x00000000000000c0       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-impure.o)
+ .riscv.attributes
+                0x00000000000000e6       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-malloc.o)
+ .riscv.attributes
+                0x000000000000010c       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-freer.o)
+ .riscv.attributes
+                0x0000000000000132       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-mallocr.o)
+ .riscv.attributes
+                0x0000000000000158       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-vfprintf.o)
+ .riscv.attributes
+                0x000000000000017e       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .riscv.attributes
+                0x00000000000001a4       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-sbrkr.o)
+ .riscv.attributes
+                0x00000000000001ca       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-wbuf.o)
+ .riscv.attributes
+                0x00000000000001f0       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-wsetup.o)
+ .riscv.attributes
+                0x0000000000000216       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-abort.o)
+ .riscv.attributes
+                0x000000000000023c       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fflush.o)
+ .riscv.attributes
+                0x0000000000000262       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-findfp.o)
+ .riscv.attributes
+                0x0000000000000288       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fwalk.o)
+ .riscv.attributes
+                0x00000000000002ae       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-makebuf.o)
+ .riscv.attributes
+                0x00000000000002d4       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-memchr.o)
+ .riscv.attributes
+                0x00000000000002fa       0x24 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-memset.o)
+ .riscv.attributes
+                0x000000000000031e       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-mlock.o)
+ .riscv.attributes
+                0x0000000000000344       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-reent.o)
+ .riscv.attributes
+                0x000000000000036a       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-signal.o)
+ .riscv.attributes
+                0x0000000000000390       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-signalr.o)
+ .riscv.attributes
+                0x00000000000003b6       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-stdio.o)
+ .riscv.attributes
+                0x00000000000003dc       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-writer.o)
+ .riscv.attributes
+                0x0000000000000402       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-closer.o)
+ .riscv.attributes
+                0x0000000000000428       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fstatr.o)
+ .riscv.attributes
+                0x000000000000044e       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-isattyr.o)
+ .riscv.attributes
+                0x0000000000000474       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-lseekr.o)
+ .riscv.attributes
+                0x000000000000049a       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-readr.o)
+ .riscv.attributes
+                0x00000000000004c0       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(close.o)
+ .riscv.attributes
+                0x00000000000004e6       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(fstat.o)
+ .riscv.attributes
+                0x000000000000050c       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(getpid.o)
+ .riscv.attributes
+                0x0000000000000532       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(isatty.o)
+ .riscv.attributes
+                0x0000000000000558       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(kill.o)
+ .riscv.attributes
+                0x000000000000057e       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(lseek.o)
+ .riscv.attributes
+                0x00000000000005a4       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(read.o)
+ .riscv.attributes
+                0x00000000000005ca       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(sbrk.o)
+ .riscv.attributes
+                0x00000000000005f0       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(write.o)
+ .riscv.attributes
+                0x0000000000000616       0x26 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(_exit.o)
+
+.comment        0x0000000000000000       0x12
+ .comment       0x0000000000000000       0x13 /tmp/ccRuWMe4.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x12 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-rand.o)
+                                         0x13 (size before relaxing)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-assert.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fprintf.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-impure.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-malloc.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-freer.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-mallocr.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-vfprintf.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-sbrkr.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-wbuf.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-wsetup.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-abort.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fflush.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-findfp.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fwalk.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-makebuf.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-memchr.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-mlock.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-reent.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-signal.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-signalr.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-stdio.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-writer.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-closer.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-fstatr.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-isattyr.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-lseekr.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libc_nano.a(lib_a-readr.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(close.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(fstat.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(getpid.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(isatty.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(kill.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(lseek.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(read.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(sbrk.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(write.o)
+ .comment       0x0000000000000012       0x13 /home/mea/workspace/riscv-compiler/bin/../lib/gcc/riscv32-unknown-elf/11.1.0/../../../../riscv32-unknown-elf/lib/libnosys.a(_exit.o)
